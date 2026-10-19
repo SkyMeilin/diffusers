@@ -61,4 +61,4 @@ Dieses Dokument definiert die Rollen, Workflows und Sicherheitsprotokolle für d
 * **Secrets & Isolation**:
   * Strikter Ausschluss von `.env`-Dateien in `.gitignore` zur Sicherung lokaler API-Keys [5].
   * Ausführung lokaler Sprachmodelle über isolierte Ollama-Container [11].
-```<FollowUp>Möchtest du diese strukturierte `AGENTS.md` direkt als Datei in deinem Repository speichern oder sollen noch weitere Agenten ergänzt werden?</FollowUp>
+**Follow-up:** Möchtest du diese strukturierte `AGENTS.md` direkt als Datei in deinem Repository speichern oder sollen noch weitere Agenten ergänzt werden?

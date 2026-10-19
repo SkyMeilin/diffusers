@@ -1,3 +1,4 @@
+
 # Security Policy
 
 ## Supported Versions
@@ -9,7 +10,7 @@ We ship security fixes in the latest release. Please reproduce on the current re
 Report privately — **do not open a public issue or PR for a suspected vulnerability.**
 
 - **Preferred:** GitHub private vulnerability reporting — the **"Report a vulnerability"** button under this repo's **Security** tab. This routes to the maintainers, keeps the report private until a fix is ready, and lets us issue a CVE through GitHub if warranted.
-- **Email:** security@huggingface.co
+- **Email:** <agencylevelup2025@gmail.com>
 
 We acknowledge valid, in-scope reports and will keep you updated on remediation. Please give us a reasonable window to fix before any public disclosure.
 
@@ -71,6 +72,7 @@ We assign the final severity. Include a CVSS v3.1 vector only if you have one.
 Understanding these saves everyone time — most of what we close as not-a-vulnerability falls inside one of them.
 
 **Loading artifacts you did not create is a trust decision.** Models, tokenizers, and configuration files can carry code or instructions that run when loaded. That a maliciously crafted artifact can execute code, read local files, or otherwise act when you load it is the **documented risk of loading untrusted content** — not a vulnerability in this library. Protect yourself by:
+
 - preferring the `safetensors` format over pickle-based formats (`use_safetensors=True`),
 - pinning a specific, reviewed `revision`,
 - setting `trust_remote_code=True` only for repositories whose modeling files you have inspected.
