@@ -1,11 +1,7 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
+  - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "weekly"
-    cooldown:
-      default-days: 7
-    groups:
-      actions:
-        patterns: ["*"]
+      interval: "daily"
+```<FollowUp>Soll ich die Konfiguration direkt für weitere Ökosysteme wie GitHub Actions oder Docker erweitern?</FollowUp>
