@@ -1,130 +1,80 @@
+# Verhaltenskodex für Mitwirkende (Contributor Covenant)
 
-# Contributor Covenant Code of Conduct
+## Unsere Zusage
 
-## Our Pledge
+Als Mitglieder, Mitwirkende und Leitungspersonen verpflichten wir uns, die Teilnahme an unserer Gemeinschaft zu einer frei von Belästigungen geprägten Erfahrung für alle zu machen – unabhängig von Alter, Körpergröße, sichtbarer oder unsichtbarer Behinderung, ethnischer Zugehörigkeit, Geschlechtsmerkmalen, Geschlechtsidentität und -ausdruck, Erfahrungsstufe, Bildung, sozioökonomischem Status, Nationalität, persönlichem Erscheinungsbild, Rasse, Kaste, Hautfarbe, Religion oder sexueller Identität und Orientierung.
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual identity
-and orientation.
+Wir verpflichten uns, so zu handeln und zu interagieren, dass wir zu einer offenen, einladenden, vielfältigen, inklusiven und gesunden Gemeinschaft beitragen.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+## Unsere Standards
 
-## Our Standards
+Beispiele für Verhalten, das zu einem positiven Umfeld für unsere Gemeinschaft beiträgt:
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+- Empathie und Freundlichkeit gegenüber anderen Menschen zeigen
+- Respektvoll gegenüber unterschiedlichen Meinungen, Standpunkten und Erfahrungen sein
+- Konstruktives Feedback geben und würdevoll annehmen
+- Verantwortung übernehmen, sich bei den von unseren Fehlern Betroffenen entschuldigen und aus der Erfahrung lernen
+- Sich darauf konzentrieren, was nicht nur für uns als Einzelne, sondern für die gesamte Diffusers-Gemeinschaft am besten ist
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall Diffusers community
+Beispiele für unakzeptables Verhalten:
 
-Examples of unacceptable behavior include:
+- Die Verwendung sexualisierter Sprache oder Bildsprache sowie sexuelle Aufmerksamkeit oder Annäherungsversuche jeglicher Art
+- Trolling, beleidigende oder abwertende Kommentare sowie persönliche oder politische Angriffe
+- Öffentliche oder private Belästigung
+- Veröffentlichung privater Informationen anderer (wie eine physische oder E-Mail-Adresse) ohne deren ausdrückliche Genehmigung
+- Spammen von Issues oder Pull Requests mit Links zu Projekten, die nicht im Zusammenhang mit dieser Bibliothek stehen
+- Sonstiges Verhalten, das in einem professionellen Umfeld angemessenerweise als unangebracht angesehen werden kann
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Spamming issues or PRs with links to projects unrelated to this library
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## Verantwortlichkeiten bei der Durchsetzung
 
-## Enforcement Responsibilities
+Die Leitungspersonen der Gemeinschaft sind dafür verantwortlich, unsere Standards für akzeptables Verhalten klarzustellen und durchzusetzen. Sie werden als Reaktion auf jedes Verhalten, das sie als unangebracht, bedrohlich, beleidigend oder schädlich erachten, angemessene und faire Korrekturmaßnahmen ergreifen.
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Die Leitungspersonen haben das Recht und die Pflicht, Kommentare, Commits, Code, Wiki-Bearbeitungen, Issues und andere Beiträge, die nicht an diesem Verhaltenskodex ausgerichtet sind, zu entfernen, zu bearbeiten oder abzulehnen, und werden die Gründe für Moderationsentscheidungen gegebenenfalls kommunizieren.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+## Geltungsbereich
 
-## Scope
+Dieser Verhaltenskodex gilt für alle Gemeinschaftsräume und gilt auch dann, wenn eine Einzelperson die Gemeinschaft offiziell in öffentlichen Räumen vertritt. Beispiele für die Vertretung unserer Gemeinschaft sind die Verwendung einer offiziellen E-Mail-Adresse, das Posten über einen offiziellen Social-Media-Account oder das Handeln als ernannte Vertretung bei einer Online- oder Offline-Veranstaltung.
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+## Durchsetzung
 
-## Enforcement
+Fälle von missbräuchlichem, belästigendem oder anderweitig unakzeptablem Verhalten können den für die Durchsetzung zuständigen Leitungspersonen unter **<feedback@huggingface.co>** gemeldet werden. Alle Beschwerden werden umgehend und fair überprüft und untersucht.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-feedback@huggingface.co.
-All complaints will be reviewed and investigated promptly and fairly.
+Alle Leitungspersonen sind verpflichtet, die Privatsphäre und Sicherheit der meldenden Person eines Vorfalls zu respektieren.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## Richtlinien zur Durchsetzung
 
-## Enforcement Guidelines
+Die Leitungspersonen folgen diesen Richtlinien zu den Auswirkungen auf die Gemeinschaft, um die Konsequenzen für Handlungen festzulegen, die sie als Verstoß gegen diesen Verhaltenskodex erachten:
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+### 1. Korrektur
 
-### 1. Correction
+**Auswirkung auf die Gemeinschaft**: Verwendung unangebrachter Sprache oder sonstiges Verhalten, das in der Gemeinschaft als unprofessionell oder unerwünscht erachtet wird.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Konsequenz**: Eine private, schriftliche Verwarnung durch die Leitungspersonen, die Klarheit über die Natur des Verstoßes und eine Erklärung bietet, warum das Verhalten unangebracht war. Eine öffentliche Entschuldigung kann gefordert werden.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+### 2. Warnung
 
-### 2. Warning
+**Auswirkung auf die Gemeinschaft**: Ein Verstoß durch einen einzelnen Vorfall oder eine Reihe von Handlungen.
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+**Konsequenz**: Eine Warnung mit Konsequenzen bei fortgesetztem Verhalten. Keine Interaktion mit den beteiligten Personen, einschließlich unaufgeforderter Interaktion mit den Personen, die den Verhaltenskodex durchsetzen, für einen festgelegten Zeitraum. Dies beinhaltet das Vermeiden von Interaktionen in Gemeinschaftsräumen sowie in externen Kanälen wie sozialen Medien. Ein Verstoß gegen diese Bedingungen kann zu einer vorübergehenden oder dauerhaften Sperre führen.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+### 3. Vorübergehende Sperre
 
-### 3. Temporary Ban
+**Auswirkung auf die Gemeinschaft**: Ein schwerwiegender Verstoß gegen Gemeinschaftsstandards, einschließlich anhaltendem unangebrachtem Verhalten.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Konsequenz**: Eine vorübergehende Sperre von jeglicher Art der Interaktion oder öffentlichen Kommunikation mit der Gemeinschaft für einen festgelegten Zeitraum. Während dieses Zeitraums ist keine öffentliche oder private Interaktion mit den beteiligten Personen gestattet, einschließlich unaufgeforderter Interaktion mit den Personen, die den Verhaltenskodex durchsetzen. Ein Verstoß gegen diese Bedingungen kann zu einer dauerhaften Sperre führen.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+### 4. Dauerhafte Sperre
 
-### 4. Permanent Ban
+**Auswirkung auf die Gemeinschaft**: Demonstrieren eines Musters von Verstößen gegen Gemeinschaftsstandards, einschließlich anhaltendem unangebrachtem Verhalten, Belästigung einer Einzelperson oder Aggression gegenüber oder Herabwürdigung von Gruppen von Einzelpersonen.
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Konsequenz**: Eine dauerhafte Sperre von jeglicher Art der öffentlichen Interaktion innerhalb der Gemeinschaft.
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+## Zuordnung (Attribution)
 
-## Attribution
+Dieser Verhaltenskodex ist vom [Contributor Covenant][homepage], Version 2.1, abgeleitet, verfügbar unter <https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+Die Richtlinien zu den Auswirkungen auf die Gemeinschaft wurden von [Mozillas Code-of-Conduct-Durchsetzungsleiter](https://github.com/mozilla/diversity) inspiriert.
 
 [homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+Antworten auf häufig gestellte Fragen zu diesem Verhaltenskodex finden Sie in den FAQ unter <https://www.contributor-covenant.org/faq>. Übersetzungen sind unter <https://www.contributor-covenant.org/translations> verfügbar.

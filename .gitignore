@@ -186,3 +186,9 @@ wandb
 # AI agent generated symlinks
 /.agents/skills
 /.claude/skills
+
+# SkyOS / Local Agent Overlays & Configs
+.skyos/
+state/
+audit/
+```<FollowUp>Passt diese Ergänzung für deine `.gitignore` so, oder möchtest du noch weitere spezifische Ordner (wie lokale Logs oder Cache-Verzeichnisse von SkyOS) hinzufügen?</FollowUp>
